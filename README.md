@@ -50,4 +50,4 @@ Requisiti di dominio
 6. Un annuncio completato non può essere considerato disponibile per nuove trattative.
 
 
-link latex:https://www.overleaf.com/project/6accafd93d33d28475366196
+link latex:[https://www.overleaf.com/project/6accafd93d33d28475366196](https://www.overleaf.com/project/6accafd93d33d28475366196)
