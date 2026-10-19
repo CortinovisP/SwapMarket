@@ -49,3 +49,5 @@ Requisiti di dominio
 5. Un annuncio può avere esclusivamente gli stati disponibile, in trattativa o completato.
 6. Un annuncio completato non può essere considerato disponibile per nuove trattative.
 
+
+link latex:https://www.overleaf.com/project/6accafd93d33d28475366196
